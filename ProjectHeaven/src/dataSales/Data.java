@@ -8,6 +8,7 @@ public class Data {
 		
 		System.out.println("Data is displayed!");
 		System.out.println("First line added!");
+		System.out.println("Second line added!");
 	}
 
 }
