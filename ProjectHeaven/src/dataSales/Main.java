@@ -14,6 +14,7 @@ public class Main {
 	private static void displayGreeting() {
 		System.out.println("Hello!");
 		System.out.println("I love Java Programming!");
+		System.out.println("This is beautiful!");
 		
 	}
 
